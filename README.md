@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/5d5642103804ae180e40b.jpg" alt="The-HellBot" width=500 height=300>
+  <img src="https://telegra.ph/file/df04d52c2c5c37f9e285f.jpg" alt="EBD-QN" width=500 height=300>
 </p>
 
 <h6 align="center">
